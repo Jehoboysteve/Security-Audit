@@ -1,2 +1,2 @@
 # Security-Audit
-I was tasked by a Fictional Company IT manager to  IT manager’s scope, goals, and risk assessment. Then, perform an internal audit to complete a controls assessment and compliance checklist. 
+Part of the Exercises in the Google Cybersecurity Professional Certificate course I'm engaged with. I was tasked to conduct an internal security audit by a Fictional Company(Botium Toys) IT manager where i completed a controls assessment and compliance checklist. 
